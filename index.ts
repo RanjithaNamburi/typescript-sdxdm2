@@ -26,4 +26,4 @@ console.log('Ranjitha Learning Typescript');
 
 console.log(twoFer('Ranjitha'));
 
-//console.log(resistor[4]);
+console.log(resistor[4]);
